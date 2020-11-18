@@ -7,7 +7,7 @@ This repository contains a Java Project to simulate some of math methods found i
 *.....
 
 ### Connect me via:
-1.[Facebook] (http://facebook.com/TA.Handez)
-2.[Email] (mailto :handez1008@gmail.com)
+1 .[Facebook] (http://facebook.com/TA.Handez)
+2 .[Email] (mailto :handez1008@gmail.com)
 
 ### © 2020 by Handez | FPT University , HCMC
